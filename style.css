@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url("./img/background.jpg")no-repeat;
+    background-size: cover;
+}
+
+section{
+    margin: 90px 0 0 600px;
+    padding: 20px;
+    width: 500px;
+    background: rgba(255, 255, 255, 0.78);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.21);
+}
+
+img{
+    width: 90px;
+}
+
+button{
+    margin:20px 0 0 830px;
+    width: 100px;
+    height: 40px;
+    background-color: purple;
+    color: #fff;
+}
